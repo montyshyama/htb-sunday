@@ -1,0 +1,15 @@
+# Nmap 7.70 scan initiated Fri Jan 17 01:58:38 2020 as: nmap -p1-65535 -Pn -oA full-port-scan/fast --max-retries 0 -vvvvvvvvvvvvv 10.10.10.76
+Warning: 10.10.10.76 giving up on port because retransmission cap hit (0).
+Nmap scan report for 10.10.10.76
+Host is up, received user-set (0.28s latency).
+Scanned at 2020-01-17 01:58:38 IST for 131s
+Not shown: 60961 filtered ports, 4570 closed ports
+Reason: 60961 no-responses and 4570 resets
+PORT      STATE SERVICE REASON
+79/tcp    open  finger  syn-ack ttl 59
+111/tcp   open  rpcbind syn-ack ttl 63
+22022/tcp open  unknown syn-ack ttl 59
+39755/tcp open  unknown syn-ack ttl 63
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Jan 17 02:00:49 2020 -- 1 IP address (1 host up) scanned in 130.34 seconds

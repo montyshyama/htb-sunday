@@ -1,0 +1,19 @@
+######## Scan started at Fri Jan 17 01:57:34 2020 #########
+access@10.10.10.76: access No Access User                     < .  .  .  . >..nobody4  SunOS 4.x NFS Anonym               < .  .  .  . >..
+admin@10.10.10.76: Login       Name               TTY         Idle    When    Where..adm      Admin                              < .  .  .  . >..lp     
+anne marie@10.10.10.76: Login       Name               TTY         Idle    When    Where..anne                  ???..marie                 ???..
+bin@10.10.10.76: bin             ???                         < .  .  .  . >..
+dee dee@10.10.10.76: Login       Name               TTY         Idle    When    Where..dee                   ???..dee                   ???..
+jo ann@10.10.10.76: Login       Name               TTY         Idle    When    Where..jo                    ???..ann                   ???..
+la verne@10.10.10.76: Login       Name               TTY         Idle    When    Where..la                    ???..verne                 ???..
+line@10.10.10.76: Login       Name               TTY         Idle    When    Where..lp       Line Printer Admin                 < .  .  .  . >..
+message@10.10.10.76: Login       Name               TTY         Idle    When    Where..smmsp    SendMail Message Sub               < .  .  .  . >..
+miof mela@10.10.10.76: Login       Name               TTY         Idle    When    Where..miof                  ???..mela                  ???..
+sammy@10.10.10.76: sammy                 pts/2        <Apr 24, 2018> 10.10.14.4          ..
+sunny@10.10.10.76: sunny                              <Jan 16 20:57> 10.10.14.9          ..
+sys@10.10.10.76: sys             ???                         < .  .  .  . >..
+######## Scan completed at Fri Jan 17 02:48:53 2020 #########
+13 results.
+
+10163 queries in 3079 seconds (3.3 queries / sec)
+

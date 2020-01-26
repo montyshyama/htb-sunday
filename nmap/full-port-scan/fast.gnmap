@@ -1,0 +1,5 @@
+# Nmap 7.70 scan initiated Fri Jan 17 01:58:38 2020 as: nmap -p1-65535 -Pn -oA full-port-scan/fast --max-retries 0 -vvvvvvvvvvvvv 10.10.10.76
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.10.10.76 ()	Status: Up
+Host: 10.10.10.76 ()	Ports: 79/open/tcp//finger///, 111/open/tcp//rpcbind///, 22022/open/tcp//unknown///, 39755/open/tcp/////
+# Nmap done at Fri Jan 17 02:00:49 2020 -- 1 IP address (1 host up) scanned in 130.34 seconds
